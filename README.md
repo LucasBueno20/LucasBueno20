@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas Bueno
+## Hi! I'm Lucas Bueno
  <div>
   <a href="https://github.com/LucasBueno20">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucasBueno20&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
