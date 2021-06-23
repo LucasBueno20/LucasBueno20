@@ -18,5 +18,6 @@
   <a href = "mailto: lucasbueno783@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-barbosa-bueno-6367b8191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+ ![Snake animation](https://github.com/LucasBueno20/LucasBueno20/blob/output/github-contribution-grid-snake.svg)
  
 </div>
