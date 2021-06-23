@@ -1,6 +1,6 @@
-## Olá! Eu sou o Thiago Roberto
+## Olá! Eu sou o Lucas Bueno
  <div>
-  <a href="https://github.com/Thialves02">
+  <a href="https://github.com/LucasBueno20">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ThiAlves02&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiAlves02&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
@@ -19,6 +19,6 @@
   <a href = "mailto: thiago.ralves02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thi02rob/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/ThiAlves02/ThiAlves02/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LucasBueno20/LucasBueno20/blob/output/github-contribution-grid-snake.svg)
  
 </div>
